@@ -62,7 +62,7 @@ const CONFIG = {
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
-    udemy: '',
+    udemy: 'ayoub03',
     dribbble: '',
     behance: '',
     medium: 'arifszn',
