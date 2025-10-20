@@ -178,6 +178,7 @@ const GitProfile = ({ config }: { config: Config }) => {
   };
 
   return (
+    <head><script src="https://t.contentsquare.net/uxa/ff2b60d5305fc.js"></script></head>
     <div className="fade-in h-screen">
       {error ? (
         <ErrorPage
