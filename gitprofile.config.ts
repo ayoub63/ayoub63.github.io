@@ -82,7 +82,6 @@ const CONFIG = {
 
     
   ],
-  // Display articles from your medium or dev account. (Optional)
   
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
