@@ -43,7 +43,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'public/CVo.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/uc?export=download&id=1tKy7CX_Q-zlsUx1AyPUdFcmFqdWQqM7_', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
